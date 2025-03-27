@@ -9,7 +9,7 @@ from deep_translator import GoogleTranslator
 import uuid
 import hashlib
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "get_ur_own_key_bitch"
 
 # Configure logging to print to CLI
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
